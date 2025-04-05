@@ -1,5 +1,4 @@
-# Projeto Imersao Alura
-
+# Projeto Imersao
 ## Meu Texto no Proximo Nivel
 
 O objetio é te auxiliar a treinar para evoluir a `qualidade` da sua escrita, assim lapidando sua redação teste/treino antes de enviar para a avaliação do professor(a).
